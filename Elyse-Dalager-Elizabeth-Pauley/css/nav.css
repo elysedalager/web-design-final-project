@@ -1,0 +1,128 @@
+header nav ul{
+  /*text-align: center;*/
+  padding-top: 3%;
+  padding-left: 11%;
+  display: inline-block;
+  justify-content: center;
+}
+
+header nav ul li{
+  list-style-type: none;
+  display: inline-block;
+  justify-content: center;
+  margin-top: 4em;
+  list-style-type: none;
+}
+
+header nav ul li a{
+  padding: 16.5px 20px;
+  color: #254D3F;
+  text-decoration: none;
+}
+
+header nav ul li a:hover{
+  background-color: #BAD6C2;
+}
+
+.active-page {
+  background-color: #BAD6C2;
+}
+
+header #logo{
+  float: left;
+  width: 10%;
+  padding-left: 3%;
+  margin-top: 2%;
+}
+
+#searchbar{
+  float: right;
+  padding-right: 7%;
+  width: 16%;
+  display: inline-flex;
+}
+
+header nav ul{
+  padding-top: 3%;
+  padding-left: 11%;
+  display: inline-block;
+  justify-content: center;
+}
+
+header nav ul li{
+  list-style-type: none;
+  display: inline-block;
+  justify-content: center;
+  margin-top: 4em;
+  list-style-type: none;
+}
+
+header nav ul li a{
+  padding: 16.5px 20px;
+  color: #254D3F;
+}
+
+.active-page {
+  background-color: #BAD6C2;
+}
+
+header #logo{
+  float: left;
+  width: 10%;
+  padding-left: 3%;
+  margin-top: 2%;
+}
+
+#searchbar{
+  float: right;
+  padding-right: 7%;
+  width: 16%;
+  display: inline-flex;
+}
+
+footer .row {
+  display: flex;
+}
+
+footer nav ul{
+  padding-top: 3%;
+  padding-left: 11%;
+  display: inline-block;
+  justify-content: center;
+}
+
+footer nav ul li{
+  list-style-type: none;
+  display: inline-block;
+  justify-content: center;
+  margin-top: 1em;
+  list-style-type: none;
+}
+
+footer nav ul li a{
+  padding: 0px 10px;
+  color: #254D3F;
+}
+
+footer nav {
+  justify-content: center;
+  padding-right: 11%;
+}
+
+footer {
+  background-color: #BAD6C2;
+  font-family: 'Libre Baskerville', serif;
+  padding: 20px;
+  text-align: center;
+  clear: both;
+}
+
+footer h4, p {
+  text-align: left;
+}
+
+footer #socialmedia {
+  float: right;
+  width: 65%;
+  margin-top: 4%;
+}
